@@ -14,15 +14,6 @@ To farms:
 To developers: 
 - Collect diverse data from user for AI training and improve speed and accuracy
 
-## Workflow
-
-//Images//
-## Output images
-
-
-//Images//
-## Setup
-
 1. Create a directory of the project
 
 2. Download  Jetson-Inference by cloning from GitHub inside the directory
